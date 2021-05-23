@@ -1,4 +1,5 @@
 # UUID API
+![example workflow](https://github.com/MeeneyTech/uuid-api/actions/workflows/django.yml/badge.svg) <br>
 Generate and return all UUIDs generated
 
 ### Database Specifications
