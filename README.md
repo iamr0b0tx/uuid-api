@@ -1,4 +1,5 @@
 # UUID API
+![example workflow](https://github.com/MeeneyTech/uuid-api/actions/workflows/django.yml/badge.svg) <br>
 Generate and return all UUIDs generated
 
 ### Database Specifications
@@ -63,6 +64,7 @@ You can test the project with pytest by running the command. You can check Githu
     pytest
 ```
 
+This project id based heavily on this setup [Audio Files API](https://github.com/iamr0b0tx/audio_files_api)
 
 # Refrences
 1. deploy_DL_project Repository. [link](https://github.com/Semicolon-Tech/deploy_DL_project_with_fastapi)
