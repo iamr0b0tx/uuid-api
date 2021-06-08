@@ -66,7 +66,7 @@ You can test the project with pytest by running the command. You can check Githu
 
 This project id based heavily on this setup [Audio Files API](https://github.com/iamr0b0tx/audio_files_api)
 
-# Refrences
+# References
 1. deploy_DL_project Repository. [link](https://github.com/Semicolon-Tech/deploy_DL_project_with_fastapi)
 2. FastAPI Documentation. [link](https://fastapi.tiangolo.com/)
 3. Requests Documentation. [link](https://requests.readthedocs.io/en/master/)
